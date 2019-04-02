@@ -11,3 +11,6 @@ the angle of motion of the knee.Flexion angle of a knee is the angle measured be
 points,the center of the leg,center of the knee and center of the thigh.A deep learning approach is presented using a synthetic dataset to
 measure the flexion angle of the knee.
 The jupyter notebook,blender file along with sample dataset is provided
+
+Sample Images for Training
+![Image1](https://github.com/SoumyadeepJana/Knee/blob/master/batch12/image0.png)
