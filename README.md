@@ -12,8 +12,8 @@ points,the center of the leg,center of the knee and center of the thigh.A deep l
 measure the flexion angle of the knee.
 The jupyter notebook,blender file along with sample dataset is provided
 
-Sample Images for Training
+## Sample Images for Training
 ![Image1](https://github.com/SoumyadeepJana/Knee/blob/master/sample%20training%20image.png)
 
-Blender File Screenshot
-![Image](https://github.com/SoumyadeepJana/Knee/blob/master/sample%20training%20image.png)
+## Blender File Screenshot
+![Image](https://github.com/SoumyadeepJana/Knee/blob/master/blender%20image.png)
