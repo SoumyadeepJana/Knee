@@ -13,4 +13,7 @@ measure the flexion angle of the knee.
 The jupyter notebook,blender file along with sample dataset is provided
 
 Sample Images for Training
-![Image1](https://github.com/SoumyadeepJana/Knee/blob/master/batch12/image0.png)
+![Image1](https://github.com/SoumyadeepJana/Knee/blob/master/sample%20training%20image.png)
+
+Blender File Screenshot
+![Image](https://github.com/SoumyadeepJana/Knee/blob/master/sample%20training%20image.png)
